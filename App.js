@@ -21,8 +21,8 @@ class App extends Component {
   state = {
   characters: [
   /*    {
-        name: 'Charlie',
-        job: 'Janitor',
+        name: 'Yassiel',
+        job: 'Adm',
       },
       {
         name: 'Mac',
